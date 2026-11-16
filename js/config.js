@@ -6,7 +6,7 @@ window.NOVA_CONFIG = {
      (e.g. "https://docs.google.com/forms/d/e/XXXX/viewform").
      Leave "" to show the placeholder. The page embeds it automatically
      (adds ?embedded=true for the iframe). */
-  FORM_URL: "",
+  FORM_URL: "https://docs.google.com/forms/d/e/1FAIpQLSd-hTHuifsc2iyW6yBpyRKMH9QwCuaXeTwB1Ws65FGOOwchAg/viewform",
 
   /* Prices in Thai baht */
   PRICE_THB: {
